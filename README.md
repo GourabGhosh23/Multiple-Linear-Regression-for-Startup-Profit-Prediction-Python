@@ -6,8 +6,10 @@ In this project, I implemented a multiple linear regression model to predict the
 
 **Additional Details:**  
 
-**Data Source:** The dataset used for this project is available in the repository under the name "50_Startups.csv". It contains information about the R&D spending, administration spending, marketing spending, and profit of 50 different startups.
-**Libraries Used:** This project utilizes numpy, pandas, matplotlib, and scikit-learn libraries for data manipulation, visualization, and model building.
+**Data Source:** The dataset used for this project is available in the repository under the name "50_Startups.csv". It contains information about the R&D spending, administration spending, marketing spending, and profit of 50 different startups.  
+
+**Libraries Used:** This project utilizes numpy, pandas, matplotlib, and scikit-learn libraries for data manipulation, visualization, and model building.  
+
 **Model Evaluation:** The model's performance can be evaluated using metrics such as mean squared error, mean absolute error, and R-squared score.
 
 **Conclusion:**  
